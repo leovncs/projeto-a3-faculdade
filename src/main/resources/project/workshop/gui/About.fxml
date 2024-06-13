@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox prefHeight="327.0" prefWidth="407.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label text="Sobre">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+         <padding>
+            <Insets bottom="10.0" left="20.0" top="10.0" />
+         </padding>
+      </Label>
+      <Label text="Nosso projeto de cadastro de funcionários e departamentos tem como objetivo principal otimizar a gestão de recursos humanos nas empresas. Esta solução centraliza as informações dos colaboradores e suas alocações em diferentes departamentos, proporcionando eficiência e precisão na administração desses dados." textAlignment="JUSTIFY" wrapText="true">
+         <padding>
+            <Insets left="20.0" right="20.0" />
+         </padding>
+      </Label>
+      <Label text="Com a automação do cadastro, eliminamos processos manuais, reduzindo erros e economizando tempo. A plataforma facilita o acesso às informações, permitindo que gestores e equipes de recursos humanos tomem decisões rápidas e informadas. Além disso, garantimos a segurança dos dados com políticas robustas de proteção e oferecemos uma solução escalável que cresce com a empresa." textAlignment="JUSTIFY" wrapText="true">
+         <padding>
+            <Insets left="20.0" right="20.0" top="10.0" />
+         </padding>
+      </Label>
+   </children>
+</VBox>
